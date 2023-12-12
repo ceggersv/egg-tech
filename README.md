@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @huevers
+- 👋 Hi, I’m @ceggersv
 - 👀 I’m interested in basic coding
 - 🌱 I’m currently learning Python and some basics of Machine Learning
 - 💞️ I’m looking to collaborate on data analysis
